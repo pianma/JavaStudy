@@ -29,5 +29,7 @@ public class Ex2 {
 	System.out.println('c');
 	
 	System.out.println("오늘의 기온 : " + -5.3 + 'c');
+	
+	adfasdfas
 }
 	}
